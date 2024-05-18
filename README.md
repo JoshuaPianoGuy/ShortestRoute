@@ -1,5 +1,8 @@
 # ShortestRoute
 This is a university assignment where you are given a series of nodes, and need to find the shortest path.
+
+# # # It takes in input one line at a time.
+
 The scenario is a cheap taxi service where there taxis at some nodes and clients and other nodes. Given an a text file with the nodes of
 taxis and the nodes of clients, the program will output the shortest path from a taxi to a given client, and then from that client to a taxi at a shop.
 
